@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @loganferkey
+- 👀 I’m interested in competitive programming, and game development as a hobby.
+- 🌱 I’m currently learning C#, and python.
+- 📫 How to reach me: loganjferkey617@gmail.com
